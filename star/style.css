@@ -1,0 +1,25 @@
+.star ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.star{
+    font-size: 2em;
+    color: rgb(106, 162, 211);
+    display: inline-block;
+}
+
+.output{
+    background-color: rgb(205, 111, 231);
+    border: 1px solid rgb(5, 57, 16);
+    margin: 15px 0;
+    padding:  10px;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.orange{
+    color: rgb(230, 99, 38);
+}
